@@ -21,7 +21,7 @@
 | Execution     | Script / Colab / Notebook       | Flexible environment for run            |
 | Logging       | Console print + JSON output     | Real-time result + persisted report     |
 
----
+--------
 
 ## 🌐 Architecture
 
