@@ -9,7 +9,7 @@
 
 **AutoTag‐Engine** is a **Python 3** tool designed to scan a simulated inventory of cloud resources and enforce a standard tagging policy by detecting missing or invalid tags (owner, environment, cost_center). It’s built for DevOps, FinOps, and cloud governance teams who want automated visibility into tagging compliance and resource metadata hygiene.
 
-------
+--------
 
 ## 🛠 Tech & Languages
 
