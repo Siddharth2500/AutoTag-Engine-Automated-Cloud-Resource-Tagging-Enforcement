@@ -1,4 +1,4 @@
-# 🚀 AutoTag‐Engine — Automated Cloud Resource Tagging & Enforcement
+# 🚀 AutoTag‐Engine - Automated Cloud Resource Tagging & Enforcement
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)  
 ![Tool](https://img.shields.io/badge/Tagging-Enforcer-FF5252.svg?logo=tag)  
