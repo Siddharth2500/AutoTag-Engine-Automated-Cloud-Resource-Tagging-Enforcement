@@ -70,4 +70,4 @@ Generate HTML or Markdown reports with dashboards
 
 Add “auto-remediation” to apply missing tags based on rules or templates
 
-Integrate with ticketing or governance systems for exceptions
+Integrate with ticketing or governance systems for exceptions.
