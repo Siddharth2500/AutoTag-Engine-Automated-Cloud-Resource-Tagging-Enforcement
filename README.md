@@ -39,7 +39,7 @@ Flow:
 ```bash
 python autotag_engine.py --input data/resources.json --output data/tagging_report.json
 
---------------------
+-----------------------
 # 📊 Use Cases
 
 Automate detection of resource tagging gaps in cloud environments
