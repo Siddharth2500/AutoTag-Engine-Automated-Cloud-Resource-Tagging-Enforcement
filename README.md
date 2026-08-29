@@ -32,7 +32,7 @@ Flow:
 4. Step 4 – Generate `tagging_report.json` summarizing total resources, number compliant vs non-compliant, and details of each non-compliant resource.  
 5. Report can then be integrated into CI/CD gates, dashboards, or governance workflows.
 
-------------------------------
+--------------------------------
 
 ## ▶️ Run AutoTag‐Engine
 
